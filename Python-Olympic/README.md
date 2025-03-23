@@ -36,3 +36,4 @@ To analyze the medals won by Slovakia (`SVK`):
 ## Conclusion
 
 This project is part of the Quera Data Analysis course, which focuses on Python, where we analyze the dataset of Olympic medal winners from 1896 to 2012.
+
