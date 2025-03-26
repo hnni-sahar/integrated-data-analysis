@@ -1,1 +1,0 @@
-# Quera-Data-Analysis-Journey
