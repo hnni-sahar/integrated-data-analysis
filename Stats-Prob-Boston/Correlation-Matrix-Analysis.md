@@ -1,0 +1,14 @@
+- **crim**: Crime rate in the area.
+- **zn**: Percentage of big residential areas (lots bigger than 25,000 sq. ft.).
+- **indus**: Percentage of land used for industries, not shops.
+- **chas**: Is the property near the Charles River? (1 = Yes, 0 = No).
+- **nox**: Air pollution level (nitric oxide concentration).
+- **rm**: Average number of rooms in a house.
+- **age**: Percentage of houses built before 1940.
+- **dis**: Distance to nearby job centers.
+- **rad**: How easy it is to get to highways.
+- **tax**: Property tax rate.
+- **ptratio**: Number of students per teacher in schools.
+- **b**: A special calculation related to the Black population in the area.
+- **lstat**: Percentage of low-income population.
+- **medv**: Median house value in thousands of dollars.
