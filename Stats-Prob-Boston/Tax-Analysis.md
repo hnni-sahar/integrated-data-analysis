@@ -1,6 +1,6 @@
 # Tax Analysis for Boston Housing Dataset
 
-The analysis is based on the **Boston Housing dataset**, which includes information on housing values, tax rates, and other features.
+The analysis is based on the **Boston Housing dataset**, which includes information on housing values, tax rates, and other features. This analysis was part of the **DetailedBoston** question in the **Statistics and Probability** section of my **Quera Data Analysis Bootcamp**.
 
 ## Questions and Answers:
 
