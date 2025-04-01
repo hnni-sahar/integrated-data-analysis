@@ -1,6 +1,6 @@
 ### **Box Plot vs. Histogram Analysis of Tax Data**  
 
-This analysis is part of the **FOA Statistics and Probability** question from the **Quera Data Camp Analysis**, using data from the **Boston Housing Dataset**.  
+This analysis is part of the **Statistics and Probability** question from the **Quera Data Camp Analysis**, using data from the **Boston Housing Dataset**.  
 
 1. **Data Concentration Around the Median:**  
    - The **box plot** shows that the median tax value is slightly above **300**.  
